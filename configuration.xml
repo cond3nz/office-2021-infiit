@@ -1,10 +1,10 @@
 <Configuration>
   <Add SourcePath="\\Server\Share" OfficeClientEdition="64" Channel="PerpetualVL2021">
       <Product ID="ProPlus2021Volume"  PIDKEY="FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH" >
-         <Language ID="ru-ru" />
+         <Language ID="MatchOS" />
       </Product>
       <Product ID="ProofingTools">
-        <Language ID="ru-ru" />
+        <Language ID="MatchOS" />
       </Product>
   </Add>
   <RemoveMSI />
